@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(71,45): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(123,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(146,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(154,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gorsk\source\repos\ProblemPlecakowy\ProblemPlecakowy\Source.cpp(162,22): warning C4018: '<': signed/unsigned mismatch
+  ProblemPlecakowy.vcxproj -> C:\Users\gorsk\source\repos\ProblemPlecakowy\Debug\ProblemPlecakowy.exe
